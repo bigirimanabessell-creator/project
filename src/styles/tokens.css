@@ -1,0 +1,38 @@
+/* ─── tokens.css ──────────────────────────────────────────────────────────── */
+:root {
+  /* Colors */
+  --primary:     #1A56DB;
+  --primary-d:   #1045B5;
+  --primary-l:   #EEF2FF;
+  --accent:      #FF6B35;
+  --accent-l:    #FFF0EB;
+  --success:     #10B981;
+  --success-l:   #ECFDF5;
+  --warning:     #F59E0B;
+  --warning-l:   #FFFBEB;
+  --danger:      #EF4444;
+  --danger-l:    #FEF2F2;
+
+  /* Neutrals */
+  --bg:          #F0F4FF;
+  --card:        #FFFFFF;
+  --text:        #1E293B;
+  --muted:       #64748B;
+  --border:      #E2E8F0;
+  --navy:        #0F172A;
+
+  /* Gradients */
+  --grad:        linear-gradient(135deg, #1A56DB 0%, #1045B5 100%);
+  --grad-accent: linear-gradient(135deg, #FF6B35 0%, #E85D24 100%);
+
+  /* Spacing */
+  --radius-sm:   8px;
+  --radius-md:   12px;
+  --radius-lg:   16px;
+  --radius-xl:   20px;
+
+  /* Shadows */
+  --shadow-sm:   0 1px 4px rgba(0,0,0,.06);
+  --shadow-md:   0 4px 20px rgba(0,0,0,.07);
+  --shadow-lg:   0 8px 40px rgba(0,0,0,.10);
+}
